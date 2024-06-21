@@ -15,5 +15,5 @@ jobs:
 
       - name: 여러개 더 해보기
         run: |
-          echo: "good"
-          echo: "morning"
+          echo "good"
+          echo "morning"
